@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mqZyWNzehWQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\VisualStudioCodeProjects\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\FileDistributorLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

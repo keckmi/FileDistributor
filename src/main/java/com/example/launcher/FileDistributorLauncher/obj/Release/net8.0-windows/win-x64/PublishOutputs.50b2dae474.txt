@@ -1,0 +1,2 @@
+C:\Users\ASUS\VisualStudioCodeProjects\file-distributor\src\main\java\com\example\launcher\FileDistributorLauncher\bin\Release\net8.0-windows\win-x64\publish\FileDistributorLauncher.pdb
+C:\Users\ASUS\VisualStudioCodeProjects\file-distributor\src\main\java\com\example\launcher\FileDistributorLauncher\bin\Release\net8.0-windows\win-x64\publish\FileDistributorLauncher.exe

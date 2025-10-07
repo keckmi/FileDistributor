@@ -1,0 +1,13 @@
+# Java
+target/
+*.class
+*.jar
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Local configs
+config.json
