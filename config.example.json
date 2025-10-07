@@ -1,0 +1,19 @@
+{
+  "_comment0": "Six paths per key: pictures[0..1], videos[0..1], music[0..1]. Empty strings allowed.",
+  "mappings": {
+    "alice": {
+      "pictures": ["A:\\Pictures\\alice", "B:\\Pictures\\alice"],
+      "videos":   ["A:\\Videos\\alice", "B:\\Pictures\\alice"],
+      "music":    ["", ""]
+    },
+    "stella": {
+      "pictures": ["A:\\Pictures\\stella", "B:\\Pictures\\stella"],
+      "videos":   ["A:\\Videos\\stella", "B:\\Videos\\stella"],
+      "music":    ["", ""]
+    }
+  },
+  "_comment1": "What to do with unknown/missing keys: 'prompt' = let me choose, 'error' = skip with error.",
+  "unmatchedPolicy": "prompt",
+  "_comment2": "Show result popup after processing: true = yes, false = run quietly.",
+  "logPopup": true
+}
