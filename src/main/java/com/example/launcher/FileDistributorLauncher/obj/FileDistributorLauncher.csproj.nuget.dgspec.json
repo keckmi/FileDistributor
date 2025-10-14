@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\VisualStudioCodeProjects\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\FileDistributorLauncher.csproj": {}
+    "C:\\Users\\ASUS\\VisualStudioCodeProjects\\FileDistributor\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\FileDistributorLauncher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\VisualStudioCodeProjects\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\FileDistributorLauncher.csproj": {
+    "C:\\Users\\ASUS\\VisualStudioCodeProjects\\FileDistributor\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\FileDistributorLauncher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\VisualStudioCodeProjects\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\FileDistributorLauncher.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\VisualStudioCodeProjects\\FileDistributor\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\FileDistributorLauncher.csproj",
         "projectName": "FileDistributorLauncher",
-        "projectPath": "C:\\Users\\ASUS\\VisualStudioCodeProjects\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\FileDistributorLauncher.csproj",
+        "projectPath": "C:\\Users\\ASUS\\VisualStudioCodeProjects\\FileDistributor\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\FileDistributorLauncher.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\VisualStudioCodeProjects\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\VisualStudioCodeProjects\\FileDistributor\\file-distributor\\src\\main\\java\\com\\example\\launcher\\FileDistributorLauncher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

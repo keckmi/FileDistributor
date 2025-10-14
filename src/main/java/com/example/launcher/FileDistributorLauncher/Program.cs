@@ -14,7 +14,7 @@ class Program
     static int Main(string[] args)
     {
         string java = @"C:\Program Files\Java\jdk-21\bin\javaw.exe";
-        string jar  = @"C:\Users\ASUS\VisualStudioCodeProjects\file-distributor\file-distributor.jar";
+        string jar  = @"C:\Users\ASUS\VisualStudioCodeProjects\FileDistributor\file-distributor\file-distributor.jar";
 
         // Fallback if args were mangled or empty: let user pick files (Unicode-safe)
         string[] cleanArgs = args;

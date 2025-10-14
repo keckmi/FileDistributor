@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileDistributorLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+198b701de1bc0210557d0167a5f146004a35f384")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileDistributorLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileDistributorLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
