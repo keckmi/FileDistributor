@@ -1,10 +1,10 @@
 package com.example;
 //Shortcut is when you right click a file: more options > send to > file distributor
-//Shortcut file: "C:\Users\ASUS\AppData\Roaming\Microsoft\Windows\SendTo\File Distributor.lnk"
-//Aimed to: "C:\Program Files\Java\jdk-21\bin\javaw.exe" -jar "C:\Users\ASUS\VisualStudioCodeProjects\file-distributor\file-distributor.jar"
+//Shortcut file: "C:\Users\USER\AppData\Roaming\Microsoft\Windows\SendTo\File Distributor.lnk"
+//Aimed to: C:\Users\USER\VisualStudioCodeProjects\FileDistributor\file-distributor\src\main\java\com\example\launcher\FileDistributorLauncher\bin\Release\net8.0-windows\win-x64\publish\FileDistributorLauncher.exe
 //so if you build a new fat jar with: mvn -DskipTests clean package //in vsc powershell from root folder
-//move it from "C:\Users\ASUS\VisualStudioCodeProjects\file-distributor\target\file-distributor.jar" where it'll be generated
-//and replace "C:\Users\ASUS\VisualStudioCodeProjects\file-distributor\file-distributor.jar" with it.
+//move it from "C:\Users\USER\VisualStudioCodeProjects\file-distributor\target\file-distributor.jar" where it'll be generated
+//and replace "C:\Users\USER\VisualStudioCodeProjects\file-distributor\file-distributor.jar" with it.
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
